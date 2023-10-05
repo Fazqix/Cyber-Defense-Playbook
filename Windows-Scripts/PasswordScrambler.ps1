@@ -1,4 +1,10 @@
-﻿#Purpose: Loops through all AD users (except current user) scrambles their passwords, and writes new passwords to .txt
+﻿<#
+Creation Date : N/A
+Last Updated : N/A
+Last Tested : N/A
+Author : N/A
+Purpose : Loops through all AD users (except current user) scrambles their passwords, and writes new passwords to .txt
+#>
 
 $CurrentUser = Get-ADUser -Identity $env:USERNAME
 
