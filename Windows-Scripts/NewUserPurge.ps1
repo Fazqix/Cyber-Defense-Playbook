@@ -1,4 +1,10 @@
-﻿#Purpose: Deletes any newly created users that are not on the initial list
+﻿<#
+Creation Date : N/A
+Last Updated : N/A
+Last Tested : N/A
+Author : N/A
+Purpose : Deletes any newly created users that are not on the initial list.
+#>
 
 #Set the file path for original list of users
 $FilePath = "C:\UserOld.txt"
