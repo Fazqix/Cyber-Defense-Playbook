@@ -1,3 +1,11 @@
+<#
+Creation Date : 2/27/23
+Last Updated : 2/27/23
+Last Tested : 2/27/23
+Author : Josiah Young
+Purpose : Downloads and Installs OSSEC (May need to update link occasionally)
+#>
+
 #RUN WITH ADMINISTRATOR"
 Set-ExecutionPolicy "Unrestricted"
 
