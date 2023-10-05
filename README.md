@@ -3,3 +3,11 @@
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 
 This repository comprises of various public cyber defense resources and tools to increase your cyber resilience. In a rapidly growing field, items within repository can become "outdated" quickly. To help organize this, little bits of documentation stating creation dates and last checked dates will try to be updated regulary to minimize their defectiveness times. Other information regarding their target machines and version will also try to be included to ensure that they are being used correctly. Other resources can provide templates or starting points to achieving your desired goals.
+
+Here is a general list of the resources provided :
+- Linix Scripts (For Automation)
+- Windows Scripts (For Automation)
+- Command Lists
+- Example Policies/Standards
+- Pre-Designed PowerPoint Templates
+- Tool Installation Walkthroughs and Guide Links
