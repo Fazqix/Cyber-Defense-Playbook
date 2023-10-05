@@ -1,8 +1,8 @@
 ﻿<#
-Creation Date : N/A
-Last Updated : N/A
-Last Tested : N/A
-Author : N/A
+Creation Date : 1/17/23
+Last Updated : 1/17/23
+Last Tested : 1/17/23
+Author : Josiah Young
 Purpose : Deletes any newly created users that are not on the initial list.
 #>
 
