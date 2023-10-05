@@ -1,8 +1,8 @@
 <#
-Creation Date : N/A
-Last Updated : N/A
-Last Tested : N/A
-Author : N/A
+Creation Date : 1/15/23
+Last Updated : 1/15/23
+Last Tested : 1/15/23
+Author : Josiah Young
 Purpose : Loops through all AD users (except you) and removes groups
 #>
 
