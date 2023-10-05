@@ -1,4 +1,10 @@
-﻿#Purpose: Loops through all AD users (except you) and removes groups
+<#
+Creation Date : N/A
+Last Updated : N/A
+Last Tested : N/A
+Author : N/A
+Purpose : Loops through all AD users (except you) and removes groups
+#>
 
 $CurrentUser = Get-ADUser -Identity $env:USERNAME
 
