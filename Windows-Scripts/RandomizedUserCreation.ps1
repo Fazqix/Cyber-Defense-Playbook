@@ -1,4 +1,10 @@
-﻿#Purpose: Generates random AD users, each with their own unique username/passwords and places them into OU of your choosing
+﻿<#
+Creation Date : N/A
+Last Updated : N/A
+Last Tested : N/A
+Author : N/A
+Purpose : Generates random AD users, each with their own unique username/passwords and places them into OU of your choosing
+#>
 
 #Prompt user for amount of random users and OU placement
 $NumberOfUsers = Read-Host "How many users do you want to generate?"
