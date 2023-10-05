@@ -2,7 +2,7 @@
 Creation Date : 12/10/2022
 Last Updated : N/A
 Last Tested : N/A
-Author : Shammahwoods
+Author : Ezra Woods
 Purpose : Simply finds all users on the system, changes each user's password, and reports whether each user's password change was successful or not.
 '
 
