@@ -1,8 +1,8 @@
 <#
-Creation Date : N/A
-Last Updated : N/A
-Last Tested : N/A
-Author : N/A
+Creation Date : 1/21/23
+Last Updated : 1/21/23
+Last Tested : 1/21/23
+Author : Josiah Young
 Purpose : Gets all install programs on the device.
 #>
 
