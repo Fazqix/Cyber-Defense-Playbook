@@ -1,0 +1,8 @@
+# Windows Security Log Events
+
+### Hunting Event_ID Categories
+
+LOG ON | 4611 4624 4648 4776 4778
+LOG OFF | 4643 4779
+PRIVILEGE USAGE |
+PROCESS USAGE
